@@ -8,7 +8,7 @@ A learner who is looking forward to working in the IT world, Enthusiastic to lea
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br><br>👨‍💻 Check My [portfolio](https://leang-rachhun.vercel.app/)<br><br>🌱 Learning Advanced Backend Architecture<br><br>💬 Ask me about MongoDB, Express, React, Node.js<br><br>📫 Reach me at: leangrachhun@gmail.com<br><br>⚡ Fun fact: I love building side projects and exploring new tech
+🔭 I’m currently working on Full Stack Web Development<br><br>👨‍💻 All about me is in [My Portfolio](https://leang-rachhun.vercel.app/)<br><br>🌱 Learning Advanced Backend Architecture<br><br>💬 Ask me about MongoDB, Express, React, Node.js<br><br>📫 Reach me at: leangrachhun@gmail.com<br><br>⚡ Fun fact: I love building side projects and exploring new tech
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ra_cunnnn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leangrachhun@gmail.com) 
